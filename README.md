@@ -1,4 +1,4 @@
-## 1. I’m Max, a Computer Vision Developer
+## I’m Max, a Computer Vision Developer
 
 I am a **Computer Vision and Machine Learning developer** working on applied CV problems and production-oriented ML projects. I have experience across the full ML lifecycle: data processing, model development and training, experiment tracking, pipeline orchestration, deployment, and system integration.
 
@@ -6,7 +6,7 @@ I focus on building **robust, reproducible, and scalable ML solutions** that wor
 
 ---
 
-## 2. Key Skills
+## Key Skills
 
 * **Computer Vision**
 
@@ -31,7 +31,7 @@ I focus on building **robust, reproducible, and scalable ML solutions** that wor
 
 ---
 
-## 3. Tech Stack
+## Tech Stack
 
 **Programming Languages**
 
@@ -73,7 +73,7 @@ I focus on building **robust, reproducible, and scalable ML solutions** that wor
 
 ---
 
-## 4. Current Focus
+## Current Focus
 
 A **railway wagon identification project**:
 
@@ -82,17 +82,3 @@ A **railway wagon identification project**:
 * Image processing under real-world constraints (noise, motion blur, perspective distortions, lighting variations)
 * Integration of CV models into a production pipeline
 
----
-
-## 5. Projects (Overview)
-
-* **End-to-end MLOps project**
-  Complete ML lifecycle: data ingestion, feature store, model training and evaluation, experiment tracking, orchestration with Airflow, containerization, Kubernetes deployment, and testing.
-
-* **Databases & Storage Practice Project**
-  Hands-on work with relational, document, in-memory, vector, and graph databases from Python, comparing data models, access patterns, and performance trade-offs.
-
-* **Computer Vision & OCR projects**
-  Applied CV solutions for object detection and text recognition in non-ideal, real-world conditions.
-
-📌 Open to challenging **Computer Vision and Machine Learning projects**
