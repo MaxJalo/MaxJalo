@@ -1,4 +1,4 @@
-## 1. I’m MaxJalo, a Computer Vision Developer
+## 1. I’m Max, a Computer Vision Developer
 
 I am a **Computer Vision and Machine Learning developer** working on applied CV problems and production-oriented ML projects. I have experience across the full ML lifecycle: data processing, model development and training, experiment tracking, pipeline orchestration, deployment, and system integration.
 
